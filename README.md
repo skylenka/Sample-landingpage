@@ -1,1 +1,1 @@
-# Sample-landingpage
+# Sample landingpage
